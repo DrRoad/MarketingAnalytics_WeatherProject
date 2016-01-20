@@ -1,2 +1,2 @@
-# MarketingAnalytics_Courses
-Courses codes in R and MySQL
+# MarketingAnalytics_WeatherProject
+Project codes in R and MySQL
